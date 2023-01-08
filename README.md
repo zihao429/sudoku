@@ -1,2 +1,2 @@
 # sudoku
-Created a sudoku solver using Java.
+Created a simple sudoku solver using Java.
